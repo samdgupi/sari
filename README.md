@@ -1,0 +1,1 @@
+This repo is my attempt to build a rabbitMQ clone in go
